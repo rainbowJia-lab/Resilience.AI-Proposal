@@ -2,7 +2,9 @@
 An AI-Driven Dynamic Assessment Model of Psychological Resilience
 
 
-Title：The Cognitive Revolution from “Unkillable” to “Stronger”：An AI-Driven Dynamic Assessment Model of Psychological Resilience
+Title
+
+The Cognitive Revolution from “Unkillable” to “Stronger”：An AI-Driven Dynamic Assessment Model of Psychological Resilience
 
 
 1. Abstract
