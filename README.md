@@ -4,7 +4,9 @@ An AI-Driven Dynamic Assessment Model of Psychological Resilience
 
 Title：The Cognitive Revolution from “Unkillable” to “Stronger”：An AI-Driven Dynamic Assessment Model of Psychological Resilience
 
+
 1. Abstract
+
 Psychological resilience—the capacity to adapt and recover from stress—is hard to capture with static self-report surveys. We propose a real-time, AI-driven model that fuses speech, text, and wearable signals via a Transformer architecture to generate continuous resilience scores. A reinforcement-learning agent then delivers just-in-time, personalized interventions (breathing guides, affirmations, guided meditation, social prompts). We will validate our approach through simulated adversity tasks and a randomized controlled trial (RCT), comparing AI-adaptive support versus a fixed-schedule control. This work aims to establish a truly dynamic, data-driven paradigm for resilience assessment and intervention.
 
 
