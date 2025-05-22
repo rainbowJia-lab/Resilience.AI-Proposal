@@ -78,12 +78,14 @@ Swipeable cards with Now/Later badges; buttons “Calm Now,” “Meditate,” �
 
 
 8. Planned Validation (RCT)
+
 | Outcome       | Measure                          |
 | ------------- | -------------------------------- |
 | Primary       | ΔCD-RISC pre→post                |
 | Secondary     | Mood/Stress scales; HRV recovery |
 
-   
+
+
 9. Anticipated Impact & Next Steps
 
 9.1 Practical
